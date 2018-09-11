@@ -7,5 +7,6 @@ public class App {
         System.out.println("Hallo Mario");
         System.out.println("Hallo Mario Landau");
         System.out.println("Hallo Mario Landau aus Pirmasens");
+        System.out.println("Hallo Mario Lan");
     }
 }
