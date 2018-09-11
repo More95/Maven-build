@@ -1,5 +1,5 @@
 language: java
-jdk: openjdk10
+jdk: oraclejdk10
 script:
   - jdk_switcher use openjdk10
 git:
