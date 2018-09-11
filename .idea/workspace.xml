@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6406d330-5c98-4e37-8d9d-42ca29f8e71f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="6406d330-5c98-4e37-8d9d-42ca29f8e71f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +14,7 @@
     <session id="-376812047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -212,12 +210,12 @@
       <updated>1536570022796</updated>
       <workItem from="1536570026189" duration="4184000" />
       <workItem from="1536657099380" duration="4200000" />
-      <workItem from="1536669085050" duration="1497000" />
+      <workItem from="1536669085050" duration="2170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9881000" />
+    <option name="totallyTimeSpent" value="10554000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,7 +228,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21636952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
